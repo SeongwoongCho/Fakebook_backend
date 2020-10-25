@@ -8,5 +8,6 @@
 # Python
 __pycache__/
 
-# Test Jupyter Notebook
+# For Testing
 test.ipynb
+inference.py
