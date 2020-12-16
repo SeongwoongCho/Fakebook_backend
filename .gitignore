@@ -1,3 +1,7 @@
+# weights
+*.pth
+*.h5
+
 # macOS
 .DS_Store
 ._*
@@ -8,6 +12,18 @@
 # Python
 __pycache__/
 
+# Temp files
+temp/
+
 # For Testing
 test.ipynb
 inference.py
+
+# Keychain
+keychain/
+
+# Config
+config.py
+
+# nohup
+nohup.out
